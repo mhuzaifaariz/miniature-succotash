@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/mhuzaifaariz/mhuzaifa/main/assets/banner-placeholder.png" alt="Profile Banner" width="100%" />
 </p>
 
-<h1 align="center">Muhammad Huzaifa Ariz</h1>
+<h1 align="center">Muhammad Huzaifa Rizwan</h1>
 <h3 align="center">SEO Executive</h3>
 <p align="center"><b>Driving measurable growth through SEO, digital marketing, and AI-powered strategies.</b></p>
 <p align="center">Transforming online visibility into real business results.</p>
@@ -109,10 +109,10 @@ SEO Executive with a strong background in digital marketing, technical SEO, and 
 
 ## 📬 Contact Information
 
-- **Email:** your.email@example.com
-- **Phone:** +92-XXX-XXXXXXX
+- **Portfolio:** [(https://github.com/mhuzaifaariz)](https://muhammed-huzaifa-riz.bolt.host/)
+- **Email:** mhuzaifaariz@gmail.com
 - **Location:** Karachi, Pakistan
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile) *(placeholder)*
+- **LinkedIn:** [linkedin.com/in/mhuzaifariz ](https://www.linkedin.com/in/mhuzaifariz) *(placeholder)*
 - **GitHub:** [github.com/mhuzaifaariz](https://github.com/mhuzaifaariz)
 
 ---
